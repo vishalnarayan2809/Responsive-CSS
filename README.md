@@ -30,3 +30,5 @@ Add a projects section to showcase development work
 Implement a skills section with progress bars
 Add social media links
 Create a contact form for more comprehensive communication options
+
+Visit the live website here:"https://singular-moonbeam-fa7968.netlify.app/"
